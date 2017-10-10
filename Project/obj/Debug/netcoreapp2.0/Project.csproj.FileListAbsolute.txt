@@ -1,0 +1,11 @@
+c:\users\anacarolineo\source\repos\ProjectTest\Project\bin\Debug\netcoreapp2.0\Project.deps.json
+c:\users\anacarolineo\source\repos\ProjectTest\Project\bin\Debug\netcoreapp2.0\Project.runtimeconfig.json
+c:\users\anacarolineo\source\repos\ProjectTest\Project\bin\Debug\netcoreapp2.0\Project.runtimeconfig.dev.json
+c:\users\anacarolineo\source\repos\ProjectTest\Project\bin\Debug\netcoreapp2.0\Project.dll
+c:\users\anacarolineo\source\repos\ProjectTest\Project\bin\Debug\netcoreapp2.0\Project.pdb
+c:\users\anacarolineo\source\repos\ProjectTest\Project\obj\Debug\netcoreapp2.0\Project.csproj.CoreCompileInputs.cache
+c:\users\anacarolineo\source\repos\ProjectTest\Project\obj\Debug\netcoreapp2.0\Project.AssemblyInfoInputs.cache
+c:\users\anacarolineo\source\repos\ProjectTest\Project\obj\Debug\netcoreapp2.0\Project.AssemblyInfo.cs
+c:\users\anacarolineo\source\repos\ProjectTest\Project\obj\Debug\netcoreapp2.0\Project.dll
+c:\users\anacarolineo\source\repos\ProjectTest\Project\obj\Debug\netcoreapp2.0\Project.pdb
+c:\users\anacarolineo\source\repos\ProjectTest\Project\obj\Debug\netcoreapp2.0\Project.csprojResolveAssemblyReference.cache

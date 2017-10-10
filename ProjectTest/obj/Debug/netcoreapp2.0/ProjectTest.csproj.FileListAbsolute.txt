@@ -1,0 +1,16 @@
+c:\users\anacarolineo\source\repos\ProjectTest\ProjectTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\anacarolineo\source\repos\ProjectTest\ProjectTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\anacarolineo\source\repos\ProjectTest\ProjectTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\anacarolineo\source\repos\ProjectTest\ProjectTest\bin\Debug\netcoreapp2.0\ProjectTest.deps.json
+c:\users\anacarolineo\source\repos\ProjectTest\ProjectTest\bin\Debug\netcoreapp2.0\ProjectTest.runtimeconfig.json
+c:\users\anacarolineo\source\repos\ProjectTest\ProjectTest\bin\Debug\netcoreapp2.0\ProjectTest.runtimeconfig.dev.json
+c:\users\anacarolineo\source\repos\ProjectTest\ProjectTest\bin\Debug\netcoreapp2.0\ProjectTest.dll
+c:\users\anacarolineo\source\repos\ProjectTest\ProjectTest\bin\Debug\netcoreapp2.0\ProjectTest.pdb
+c:\users\anacarolineo\source\repos\ProjectTest\ProjectTest\obj\Debug\netcoreapp2.0\ProjectTest.csprojResolveAssemblyReference.cache
+c:\users\anacarolineo\source\repos\ProjectTest\ProjectTest\obj\Debug\netcoreapp2.0\ProjectTest.csproj.CoreCompileInputs.cache
+c:\users\anacarolineo\source\repos\ProjectTest\ProjectTest\obj\Debug\netcoreapp2.0\ProjectTest.AssemblyInfoInputs.cache
+c:\users\anacarolineo\source\repos\ProjectTest\ProjectTest\obj\Debug\netcoreapp2.0\ProjectTest.AssemblyInfo.cs
+c:\users\anacarolineo\source\repos\ProjectTest\ProjectTest\obj\Debug\netcoreapp2.0\ProjectTest.dll
+c:\users\anacarolineo\source\repos\ProjectTest\ProjectTest\obj\Debug\netcoreapp2.0\ProjectTest.pdb
+c:\users\anacarolineo\source\repos\ProjectTest\ProjectTest\bin\Debug\netcoreapp2.0\Project.dll
+c:\users\anacarolineo\source\repos\ProjectTest\ProjectTest\bin\Debug\netcoreapp2.0\Project.pdb
