@@ -5649,11 +5649,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\anacarolineo\\source\\repos\\ProjectTest\\ProjectTest\\ProjectTest.csproj",
+      "projectUniqueName": "C:\\Users\\anacarolineo\\source\\repos\\ProjectTest\\ProjectTest\\ProjectTest.csproj",
       "projectName": "ProjectTest",
-      "projectPath": "c:\\users\\anacarolineo\\source\\repos\\ProjectTest\\ProjectTest\\ProjectTest.csproj",
+      "projectPath": "C:\\Users\\anacarolineo\\source\\repos\\ProjectTest\\ProjectTest\\ProjectTest.csproj",
       "packagesPath": "C:\\Users\\anacarolineo\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\anacarolineo\\source\\repos\\ProjectTest\\ProjectTest\\obj\\",
+      "outputPath": "C:\\Users\\anacarolineo\\source\\repos\\ProjectTest\\ProjectTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5672,8 +5672,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "c:\\users\\anacarolineo\\source\\repos\\ProjectTest\\Project\\Project.csproj": {
-              "projectPath": "c:\\users\\anacarolineo\\source\\repos\\ProjectTest\\Project\\Project.csproj"
+            "C:\\Users\\anacarolineo\\source\\repos\\ProjectTest\\Project\\Project.csproj": {
+              "projectPath": "C:\\Users\\anacarolineo\\source\\repos\\ProjectTest\\Project\\Project.csproj"
             }
           }
         }

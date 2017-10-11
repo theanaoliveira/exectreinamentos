@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\anacarolineo\\source\\repos\\ProjectTest\\Project\\Project.csproj",
+      "projectUniqueName": "C:\\Users\\anacarolineo\\source\\repos\\ProjectTest\\Project\\Project.csproj",
       "projectName": "Project",
-      "projectPath": "c:\\users\\anacarolineo\\source\\repos\\ProjectTest\\Project\\Project.csproj",
+      "projectPath": "C:\\Users\\anacarolineo\\source\\repos\\ProjectTest\\Project\\Project.csproj",
       "packagesPath": "C:\\Users\\anacarolineo\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\anacarolineo\\source\\repos\\ProjectTest\\Project\\obj\\",
+      "outputPath": "C:\\Users\\anacarolineo\\source\\repos\\ProjectTest\\Project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
